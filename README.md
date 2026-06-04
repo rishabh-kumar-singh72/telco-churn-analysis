@@ -33,13 +33,13 @@ A full data analyst project analysing **7,043 telecom customers** to answer:
 ## 📊 Dashboard Preview
 
 ### Page 1 — Executive Overview
-![Executive Overview](powerbi/screenshots/page1_executive_overview.png)
+![Executive Overview](powerbi/page1_executive_overview.png)
 
 ### Page 2 — Segment Analysis
-![Segment Analysis](powerbi/screenshots/page2_segment_analysis.png)
+![Segment Analysis](powerbi/page2_segment_analysis.png)
 
 ### Page 3 — Customer Risk Scores (ML)
-![Customer Risk](powerbi/screenshots/page3_customer_risk.png)
+![Customer Risk](powerbi/page3_customer_risk.png)
 
 ---
 
