@@ -26,7 +26,7 @@ A full data analyst project analysing **7,043 telecom customers** to answer:
 
 ## 🔗 Live Dashboard
 
-👉 **[View Power BI Dashboard](YOUR_POWERBI_LINK_HERE)**
+👉 **[View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/860a1670-7f8c-43e4-9a21-5193b37c21ce/c9710a4e4618571edc41?experience=power-bi)**
 
 ---
 
